@@ -1,6 +1,9 @@
 Program: JSLinux
 https://bellard.org/jslinux/vm.html?cpu=riscv64&url=fedora33-riscv.cfg&mem=256
 
+Video explicando: 
+https://drive.google.com/file/d/1bU-FTyoEETBvzMI6KWVPmi1fgHqVYHlp/view?usp=sharing
+
 Code:
 
 mkdir practica1
